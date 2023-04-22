@@ -23,3 +23,5 @@ You can find release notes for all releases, including out-of-support releases, 
 
 [releases-index.json]: https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/releases-index.json
 [policies]: ../release-policies.md
+
+More updates to be at this page, please follow us to be the first!
